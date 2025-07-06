@@ -1,6 +1,6 @@
 ## Oiii! Sou Sophianaomip 👋
 
-- 🌱 Petou aprendendo HTML,CSS e JavaScript, pretendo a aprender Peyton e etc...
+- 🌱 Petou aprendendo HTML,CSS e JavaScript, pretendo a aprender Peyton e mecher com IA e etc...
 
 <div>
   <a href="https://github.com/sophianaomip/github-readme-stats">
